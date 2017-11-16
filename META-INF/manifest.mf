@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.cx.ui.Login
+Class-Path: mysql-connector-java-5.1.17-bin.jar
+ 
